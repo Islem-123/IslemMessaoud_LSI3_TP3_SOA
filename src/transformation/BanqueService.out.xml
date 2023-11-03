@@ -3,14 +3,37 @@
         <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <h1>Liste des Comptes</h1>
-        <table>
+        <h1> Liste des comptes</h1>
+        <table border="1">
             <tr>
-                <th>Code</th><th>Solde</th><th>Date de Cr&eacute;ation</th>
+                <th>code</th><th>solde</th><th>dateCreation</th>
             </tr>
             <tr>
-                <td>0</td><td>0.0</td><td></td>
+                <td>0</td><td>0.0</td><td>2001-01-01</td>
+            </tr>
+            <tr>
+                <td>1</td><td>500</td><td>2008-01-01</td>
+            </tr>
+            <tr>
+                <td>2</td><td>10000000</td><td>1992-01-01</td>
             </tr>
         </table>
+        <p>
+				Somme totale des soldes: 10000500</p>
+        <h1>Liste des comptes cr&eacute;&eacute;s apr&egrave;s 2000</h1>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>dateCreation</th>
+            </tr>
+            <tr>
+                <td>0</td><td>0.0</td><td>2001-01-01</td>
+            </tr>
+            <tr>
+                <td>1</td><td>500</td><td>2008-01-01</td>
+            </tr>
+        </table>
+        <p>
+				La Somme totale des soldes des comptes cr&eacute;&eacute;s apr&egrave;s 2000:
+				500</p>
     </body>
 </html>
