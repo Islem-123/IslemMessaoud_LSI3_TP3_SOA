@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BanqueService>
+  <conversion>
+    <montant>0.0</montant>
+  </conversion>
+  <getComptes>
+    <code>0</code>
+    <solde>0.0</solde>
+    <dateCreat>2001-01-01</dateCreat>
+  </getComptes>
+  <getComptes>
+    <code>1</code>
+    <solde>500</solde>
+    <dateCreat>2008-01-01</dateCreat>
+  </getComptes>
+  <getComptes>
+    <code>2</code>
+    <solde>10000000</solde>
+    <dateCreat>1992-01-01</dateCreat>
+  </getComptes>
+</BanqueService>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ki tranai nraniw b xsl  -->
